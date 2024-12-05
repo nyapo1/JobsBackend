@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "location": "Pheonix, AZ",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer+Node.js",
+      "type": "Full-Time",
+      "location": "Atlanta, GA",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "salary": "$150K - 175K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-555"
+      }
+    },
+    {
+      "id": "481b",
+      "title": "Bank Systems management",
+      "type": "Full-Time",
+      "location": "WarSaw",
+      "description": "Bank systems management involves the planning, implementation, and oversight of various technologies and processes that support banking operations. It ensures that banks can efficiently manage their resources, services, and customer interactions while complying with regulations and maintaining security",
+      "salary": "$125K - 150K",
+      "company": {
+        "name": "Marihtan",
+        "description": "Marihtan Bank management involves the planning, implementation, and oversight of various technologies and processes that support banking operations. It ensures that banks can efficiently manage their resources, services, and customer interactions while complying with regulations and maintaining security",
+        "contactEmail": "felix@gmail.com",
+        "contactPhone": "07900347888"
+      }
+    },
+    {
+      "id": "034b",
+      "title": "Data Analysts",
+      "type": "Remote",
+      "location": "USA",
+      "description": "Core Banking Systems\nDefinition: Centralized systems that manage banking transactions and operations across various branches.\nFunctions: Account management, transaction processing, loan management, and customer relationship management (CRM).",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "haaTech",
+        "description": "Involves collecting data for analysis purposes and future predictions are made ",
+        "contactEmail": "hai@gmail",
+        "contactPhone": "999-888-777"
+      }
+    },
+    {
+      "id": "55f3",
+      "title": "Virsual Assistant position",
+      "type": "Remote",
+      "location": "United Kingdom",
+      "description": "Purpose: Identify, assess, and mitigate risks (credit, operational, market, and liquidity).\nTools: Risk assessment models, stress testing, and compliance monitoring systems.",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "Facco",
+        "description": "Help in receiving customers and schedulin for their meeting .Also replying to the texts",
+        "contactEmail": "hr@mao",
+        "contactPhone": "555-222-169"
+      }
+    },
+    {
+      "id": "63c5",
+      "title": "Machine learning",
+      "type": "Internship",
+      "location": "X-space",
+      "description": "Maintaining and creating AI based Source code",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "fyfd",
+        "description": "meeting where,anytime to meet cliants needs of portfolio",
+        "contactEmail": "MachineLearning@lao",
+        "contactPhone": "768-096-431"
+      }
+    }
+  ]
+}
